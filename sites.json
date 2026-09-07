@@ -131,7 +131,7 @@ window.WEBRING_SITES = [
     },
     {
         "url": "https://techdaria.com/",
-        "name": "Daria Lutchenko",
-        "description": "Daria's blog on technical writing and product management"
+        "name": "Technically, Daria",
+        "description": "Daria Lutchenko's blog on technical writing and product management"
     }
 ];
